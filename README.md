@@ -17,7 +17,7 @@ The **Media Page** in DaVinci Resolve is the hub for importing, organizing, and 
 This page streamlines the workflow, ensuring all your materials are accessible and well-organized before you begin editing.  
 <img width="1919" height="1018" alt="Screenshot 2025-08-21 084356" src="https://github.com/user-attachments/assets/5b87cec6-926a-4409-9071-d15063b40274" />  
 **Assignment 1**
-
+https://youtu.be/WSeK3KBEaWI?si=nEaK5TT1AGhBpe4Z
 
 
 ## The Cut Page
